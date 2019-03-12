@@ -1,4 +1,4 @@
-com.terserah.mamicampapps
+com.terserah.mamicamp
 anim abc_fade_in
 anim abc_fade_out
 anim abc_grow_fade_in_from_bottom
@@ -1028,7 +1028,8 @@ drawable notify_panel_notification_icon_bg
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 id ALT
-id Button1
+id Button
+id ButtonDetail
 id CTRL
 id FUNCTION
 id META
@@ -1038,6 +1039,7 @@ id TextView1
 id TextView2
 id TextView3
 id TextView4
+id TextView5
 id action_bar
 id action_bar_activity_content
 id action_bar_container
@@ -1068,6 +1070,8 @@ id beginning
 id blocking
 id bottom
 id buttonPanel
+id buttonSimpan
+id buttonView
 id center
 id center_horizontal
 id center_vertical
@@ -1093,6 +1097,8 @@ id design_navigation_view
 id dimensions
 id direct
 id disableHome
+id editText
+id editText3
 id edit_query
 id end
 id enterAlways
@@ -1156,9 +1162,11 @@ id pin
 id progress_circular
 id progress_horizontal
 id radio
+id recyclerEmployee
 id right
 id right_icon
 id right_side
+id salary
 id save_image_matrix
 id save_non_transition_alpha
 id save_scale_type
@@ -1210,6 +1218,7 @@ id text2
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
+id textView1
 id text_input_password_toggle
 id textinput_counter
 id textinput_error
@@ -1226,6 +1235,8 @@ id transition_layout_save
 id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
+id umur
+id umurEdittext
 id uniform
 id unlabeled
 id up
@@ -1297,6 +1308,9 @@ layout design_navigation_item_subheader
 layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_password_icon
+layout layout_employee_list
+layout layout_form
+layout layout_main_activity_constraint
 layout mtrl_layout_snackbar
 layout mtrl_layout_snackbar_include
 layout notification_action

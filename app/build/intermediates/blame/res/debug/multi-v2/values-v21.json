@@ -1,29 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Rafi\\Mamicamp\\MamiCampApps\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "outputFile": "D:\\Rafi\\Mamicamp\\120319\\camp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\fariz\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\7168aa29c9208335e8926dea980c4ffc\\res\\values-v21\\values-v21.xml",
-                    "from": {
-                        "startLines": "2,10,18,26",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,484,910,1333",
-                        "endLines": "9,17,25,33",
-                        "endColumns": "10,10,10,10",
-                        "endOffsets": "479,905,1328,1763"
-                    },
-                    "to": {
-                        "startLines": "267,275,283,291",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "19758,20187,20613,21036",
-                        "endLines": "274,282,290,298",
-                        "endColumns": "10,10,10,10",
-                        "endOffsets": "20182,20608,21031,21466"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\fariz\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\a9e7e7746427d9be519c0ca9f82304b5\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\fariz\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\a67e7f2f50e2fddc528d3d4c6f00140d\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,19,20,21,22,24,26,27,28,29,30,32,34,36,38,40,42,43,48,50,52,53,54,56,58,59,60,61,62,63,107,110,154,157,160,162,164,166,169,171,174,175,176,179,180,181,182,183,184,187,188,190,192,194,196,200,202,203,204,205,207,211,213,215,216,217,218,219,221,222,223,233,234,235,247",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -42,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\fariz\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\820ba282b73983e3d1fac57b0d28c0c4\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\fariz\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\56e79f36de5a0c8179f95dce2ca197dd\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -58,6 +39,25 @@
                         "endLines": "2,3,4,5,263,264,265,266,301,306",
                         "endColumns": "103,63,66,63,115,125,125,127,12,12",
                         "endOffsets": "154,218,285,349,19373,19499,19625,19753,21638,21976"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\fariz\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\4422f4938b6cf5ca4820efbd61d73aed\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,10,18,26",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,484,910,1333",
+                        "endLines": "9,17,25,33",
+                        "endColumns": "10,10,10,10",
+                        "endOffsets": "479,905,1328,1763"
+                    },
+                    "to": {
+                        "startLines": "267,275,283,291",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "19758,20187,20613,21036",
+                        "endLines": "274,282,290,298",
+                        "endColumns": "10,10,10,10",
+                        "endOffsets": "20182,20608,21031,21466"
                     }
                 }
             ]

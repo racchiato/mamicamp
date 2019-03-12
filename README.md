@@ -1,2 +1,0 @@
-# mamicamp
-For mamicamp bootcamp

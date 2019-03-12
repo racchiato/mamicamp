@@ -1,4 +1,4 @@
-#Tue Mar 05 19:10:15 ICT 2019
-base.0=D\:\\Rafi\\Mamicamp\\MamiCampApps\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+#Tue Mar 12 19:12:21 ICT 2019
+base.0=D\:\\Rafi\\Mamicamp\\120319\\camp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
 path.0=classes.dex
 renamed.0=classes.dex
